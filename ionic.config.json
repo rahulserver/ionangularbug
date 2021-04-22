@@ -1,0 +1,7 @@
+{
+  "name": "ionangulartest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
